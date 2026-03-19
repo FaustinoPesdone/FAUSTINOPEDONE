@@ -1,8 +1,6 @@
 # Trabajo Práctico – Aplicación de Nuevas Tecnologías
 
-Repositorio correspondiente al TP sobre **Machine Learning en productos y servicios reales**.
-
-## Contenido
+## TPS Marzo
 
 👉 [Trabajo Práctico 01](tp01.md)
 👉 [Trabajo Práctico 02](Tp02.md)
